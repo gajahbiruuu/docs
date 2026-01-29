@@ -4,7 +4,7 @@ module.exports = {
   rules: {
     "react-hooks/exhaustive-deps": "error",
     "import/newline-after-import": [
-      "error",
+      "error",,
       {
         count: 1,
       },
